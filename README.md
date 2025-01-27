@@ -1,8 +1,4 @@
-# Level Up for Juniors 01 - Sistema de vendas de ingressos
-
-<div style="background-color: black; display: inline-block;">
-  <img src="./doc-assets/logo.svg" alt="Level Up for Juniors">
-</div>
+Sistema de vendas de ingressos
 
 ## Requerimentos
 
